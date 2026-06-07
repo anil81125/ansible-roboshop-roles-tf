@@ -1,0 +1,1 @@
+MONGODB_HOST: mongodb-{{ env }}.linakalinga.space # mongodb-dev.linakalinga.space

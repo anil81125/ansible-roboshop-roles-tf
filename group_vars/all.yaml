@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb-{{ env }}.linakalinga.space # mongodb-dev.linakalinga.space
+REDIS_HOST: redis-{{ env }}.linakalinga.space # redis-dev.linakalinga.space
+CATALOGUE_HOST: catalogue.backend-alb-{{ env }}.linakalinga.space # catalogue-dev.linakalinga.space
+CART_HOST: cart.backend-alb-{{ env }}.linakalinga.space # cart-dev.linakalinga.space
+USER_HOST: user.backend-alb-{{ env }}.linakalinga.space # user-dev.linakalinga.space
+RABBITMQ_HOST: rabbitmq-{{ env }}.linakalinga.space # rabbitmq-dev.linakalinga.space
+MYSQL_HOST: mysql-{{ env }}.linakalinga.space # mysql-dev.linakalinga.space
+SHIPPING_HOST: shipping.backend-alb-{{ env }}.linakalinga.space # shipping-dev.linakalinga.space
+PAYMENT_HOST: payment.backend-alb-{{ env }}.linakalinga.space # payment-dev.linakalinga.space
